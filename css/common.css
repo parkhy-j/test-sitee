@@ -1,0 +1,10 @@
+/* 공통규칙(header,footer,button,table) 잡는 문서 */
+h2{
+    color: #000;
+    font-size: 22px;
+    line-height: 1.4;
+}
+.bg-gray-s1{background-color: #fafaf9;}
+.bg-gray-s2{background-color: #fafaf3;}
+.mt100{margin-top: 100px;}
+
